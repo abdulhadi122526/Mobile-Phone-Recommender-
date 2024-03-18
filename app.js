@@ -66,7 +66,7 @@ if(budget === "high" && opSystem === "ios" && camera === "high"){
     document.write("-Betary life: up to 10 hour talk time" + "<br>")
     document.write("-screen size 6.7 inch")
 
-}else if(budget === "medium" && opSystem === "android" && camera === "moderatr"){
+}else if(budget === "medium" && opSystem === "android" && camera === "moderate"){
     document.write("Based on your preferences, we recommendthe following mobile phone:" + "<br>" )
     document.write("-oppo" + "<br>")
     document.write("-price: 30,000pkr" + "<br>")
